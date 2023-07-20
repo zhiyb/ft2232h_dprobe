@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM8W-12.0000MHZ-4-D1X-T3
+D 26 MHz TCXO Clipped Sine Wave Oscillator 1.68V ~ 3.63V - 4-SMD, No Lead
+K
+F https://www.abracon.com/Resonators/ABM8W.pdf
+$ENDCMP
+#
+#End Doc Library

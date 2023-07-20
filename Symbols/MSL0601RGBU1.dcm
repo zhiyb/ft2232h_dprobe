@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSL0601RGBU1
+D Standard LEDs - SMD RGB 625/527/470nm 700/1250/360mcd 1105
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0049811.pdf
+$ENDCMP
+#
+#End Doc Library

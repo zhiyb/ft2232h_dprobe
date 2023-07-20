@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232H-56Q-TRAY
+D FTDI Chip FT2232H-56Q-TRAY, USB Controller, 30MBps, USB 2.0, 1.8 V, 3.3 V, 56-Pin VQFN
+K
+F https://componentsearchengine.com/Datasheets/1/FT2232H-56Q-TRAY.pdf
+$ENDCMP
+#
+#End Doc Library

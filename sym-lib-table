@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FT2232H-56Q-TRAY")(type "KiCad")(uri "${KIPRJMOD}/Symbols/FT2232H-56Q-TRAY.kicad_sym")(options "")(descr ""))
+  (lib (name "216990-0001")(type "KiCad")(uri "${KIPRJMOD}/Symbols/216990-0001.kicad_sym")(options "")(descr ""))
+  (lib (name "93LC46BT-I_OT")(type "KiCad")(uri "${KIPRJMOD}/Symbols/93LC46BT-I_OT.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8W-12_0000MHZ-4-D1X-T3")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ABM8W-12_0000MHZ-4-D1X-T3.kicad_sym")(options "")(descr ""))
+  (lib (name "MSL0601RGBU1")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MSL0601RGBU1.kicad_sym")(options "")(descr ""))
+)
